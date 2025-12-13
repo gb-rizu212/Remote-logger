@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+# Requirements cho Remote Logger System
+# Chạy: pip install -r requirements.txt
+
+# Giao diện
+tkinter  # Có sẵn trong Python standard library
+
+# Testing (tùy chọn)
+=======
+# Requirements cho Remote Logger System
+# Chạy: pip install -r requirements.txt
+
+# Giao diện
+tkinter  # Có sẵn trong Python standard library
+
+# Testing (tùy chọn)
+>>>>>>> f675f2a (đẩy từ file local lên git)
+pytest>=7.0.0
