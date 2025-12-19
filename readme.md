@@ -143,13 +143,6 @@ remote_logger/
 * Tối ưu bằng async/await
 * Bảo mật bằng SSL/TLS
 
----
-
-## 📝 Quy trình làm việc nhóm
-
-* Phân chia công việc rõ ràng theo backend và frontend
-* Sử dụng Git với feature branch và pull request
-* Tuân thủ chuẩn code PEP8, có comment và docstring
 
 ---
 
